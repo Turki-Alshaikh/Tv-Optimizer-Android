@@ -105,3 +105,17 @@ pyinstaller --noconsole --onefile tv_app.py
 ## ⚠️ إخلاء المسؤولية
 
 هذه الأداة تقوم بتعديلات على مستوى النظام. استخدمها على مسؤوليتك الخاصة. تأكد من عمل نسخة احتياطية من إعدادات جهازك قبل التطبيق.
+
+## 🚀 Sponsored & Maintained By | برعاية متجر مفاتيحي
+
+This project is developed and maintained as an open-source initiative. If this tool streamlined your workflow or saved you time, consider supporting the developer by upgrading your digital workspace through our store:
+
+**[Mfatihy Store (متجر مفاتيحي)](https://mfatihy.com)** is your premium destination for genuine software solutions. We provide authentic **[Windows and Office keys](https://mfatihy.com/Office/c2015509396)**, top-tier antivirus subscriptions, and professional design tools (Adobe & Autodesk) at unbeatable prices with instant automated delivery.
+
+---
+
+تم تطوير هذا المشروع البرمجي وإتاحته مجاناً لدعم مجتمع المطورين والمستخدمين. إذا ساعدتك هذه الأداة في إنجاز مهامك، يمكنك دعم استمرارية التطوير من خلال زيارة متجرنا الرقمي:
+
+**[متجر مفاتيحي (Mfatihy)](https://mfatihy.com)** هو الوجهة الأولى والموثوقة في السعودية والخليج للحصول على **[تراخيص البرامج الأصلية](https://mfatihy.com)**. نوفر لك **[مفاتيح تفعيل ويندوز وأوفيس](https://mfatihy.com/windows-keys/c1242520213)** مدى الحياة، بالإضافة إلى اشتراكات برامج التصميم الهندسية والاحترافية بأفضل الأسعار، مع ضمان التسليم الفوري والتفعيل الآمن. 
+
+[![Visit Mfatihy](https://img.shields.io/badge/Visit_Store-Mfatihy.com-2ea44f?style=for-the-badge&logo=shopify)](https://mfatihy.com)
