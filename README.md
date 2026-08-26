@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Android TV & Xiaomi Ultimate Optimizer (GUI Edition)
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -163,7 +162,7 @@ python tv_optimizer.py
 كما تساعدك هذه الأداة في تنظيف وتحسين أداء شاشات وأنظمة الأندرويد، يمكنك أيضاً حماية جهازك الشخصي والارتقاء بأدائه عبر استخدام برامج أصلية من **[متجر مفاتيحي (Mfatihy)](https://mfatihy.com)**.
 
 تجنب مشاكل وبطء النظام الناتجة عن الكراكات، واحصل على **[مفاتيح تفعيل ويندوز أصلية](https://mfatihy.com/windows-keys/c1242520213)** وحزم **[مايكروسوفت أوفيس](https://mfatihy.com/Office/c2015509396)** بأسعار تنافسية جداً. نحن نلتزم بتوفير تراخيص آمنة وموثوقة مع سياسة دعم واضحة لعملائنا في السعودية والخليج.
-
+ 
 ---
 
 ## 📄 License / الترخيص
