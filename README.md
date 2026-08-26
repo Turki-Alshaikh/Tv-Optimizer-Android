@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>🌍 Bilingual UI / واجهة ثنائية اللغة</h3>
-  <img src="windowphoto.ar.png" alt="Android TV Optimizer GUI - Arabic" width="48%">
+  <img src="windowphoto-ar.png" alt="Android TV Optimizer GUI - Arabic" width="48%">
   <img src="windowphoto-en.png" alt="Android TV Optimizer GUI - English" width="48%">
 </div>
 
